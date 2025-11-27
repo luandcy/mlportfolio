@@ -12,49 +12,50 @@ export const siteConfig = {
   aboutMe:
     "Currently in my final year of a Master's degree in MIASHS, specializing in machine learning algorithms with a strong statistical foundation. I'm passionate about leveraging new technologies and methods to explore data in insightful and transformative ways. My goal is to deepen my expertise in data analysis and inference to build powerful predictive models. My interests span transportation, environmental and health data, NLP, and social sciences—though I'm open to exploring other domains. I'm driven to solve real-world problems through data and contribute to meaningful projects that align with my values.",
   skills: ["Python", "R", "Pandas", "Scikit-learn", "SQL", "Power BI"],
+  
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Single Cell RNA-seq Analysis for Cancer Research",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Research internship project analyzing single-cell RNA sequencing data from skin cancer patients. Leveraged variational autoencoders (scVI) to handle high-dimensional, sparse biological data. Explored multiple visualization methods (t-SNE, UMAP, PCA, Spectral Embedding) to reveal meaningful clustering patterns and biological structure across patient samples.",
+      link: "https://github.com/luandcy/m1-stage-scanalysis",
+      skills: ["Python", "scVI", "t-SNE", "UMAP", "Bioinformatics"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "French Twitter Sentiment Analysis",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Built a sentiment classification system for 1.5M French tweets using NLP techniques. Implemented text preprocessing pipeline with SpaCy, compared multiple ML models (Naive Bayes, Logistic Regression, SVC), and achieved 0.80 F1-score through hyperparameter optimization of Logistic Regression.",
+      link: "https://github.com/luandcy/m1-nlp-sentiment-analysis",
+      skills: ["Python", "NLP", "SpaCy", "Machine Learning", "Text Classification"],
     },
     {
-      name: "ExtensionKit",
+      name: "Signature Transform for Time-Series Classification",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Implemented signature and log-signature transforms from rough path theory for medical time-series analysis. Conducted systematic hyperparameter optimization to evaluate signature depth, regularization, and dimensionality trade-offs. Demonstrated log-signatures' superior stability in high-dimensional feature spaces.",
+      link: "https://github.com/luandcy/m2-log-signature",
+      skills: ["Python", "Time-Series Analysis", "Signature transform", "Tensor manipulation"],
     },
   ],
 
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Université Lumière Lyon 2",
+      degree: "Master's Degree - MIASHS (Applied Mathematics & Computer Science)",
+      dateRange: "2024 - Present",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Conducted data analysis and visualization projects on transportation systems",
+        "Developed NLP sentiment analysis pipeline for large-scale Twitter data",
+        "Implemented machine learning models with rigorous validation strategies",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Université Lumière Lyon 2",
+      degree: "Bachelor's Degree - MIASHS",
+      dateRange: "2020 - 2024",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Built full-stack web application with SQL database",
+        "Created fraud detection system using statistical modeling in R",
+        "Developed collaborative Java application using OOP principles",
       ],
     },
   ],
