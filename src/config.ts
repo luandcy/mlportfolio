@@ -4,14 +4,14 @@ export const siteConfig = {
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "dechery.luan@gmail.com",
+    linkedin: "https://www.linkedin.com/in/luan-dechery/",
+    twitter: "mlportfolio/public/cv_ldechery.pdf",
+    github: "https://github.com/luandcy",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Currently in my final year of a Master's degree in MIASHS, specializing in machine learning algorithms with a strong statistical foundation. I'm passionate about leveraging new technologies and methods to explore data in insightful and transformative ways. My goal is to deepen my expertise in data analysis and inference to build powerful predictive models. My interests span transportation, environmental and health data, NLP, and social sciences—though I'm open to exploring other domains. I'm driven to solve real-world problems through data and contribute to meaningful projects that align with my values.",
+  skills: ["Python", "R", "Pandas", "Scikit-learn", "SQL", "Power BI"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
