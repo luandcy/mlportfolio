@@ -6,7 +6,7 @@ export const siteConfig = {
   social: {
     email: "dechery.luan@gmail.com",
     linkedin: "https://www.linkedin.com/in/luan-dechery/",
-    cv: "public/cv_ldechery.pdf",
+    cv: "/mlportfolio/cv_ldechery.pdf",
     github: "https://github.com/luandcy",
   },
   aboutMe:
