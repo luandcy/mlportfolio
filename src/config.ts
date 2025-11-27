@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Luan Dechery",
+  title: "Machine Learning and Statistics student",
+  description: "Portfolio website of Luan Dechery",
   accentColor: "#1d4ed8",
   social: {
     email: "dechery.luan@gmail.com",
     linkedin: "https://www.linkedin.com/in/luan-dechery/",
-    twitter: "public/cv_ldechery.pdf",
+    cv: "public/cv_ldechery.pdf",
     github: "https://github.com/luandcy",
   },
   aboutMe:
