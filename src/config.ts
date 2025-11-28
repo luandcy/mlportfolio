@@ -27,6 +27,7 @@ export const siteConfig = {
         "Built a sentiment classification system for 1.5M French tweets using NLP techniques. Implemented text preprocessing pipeline with SpaCy, compared multiple ML models (Naive Bayes, Logistic Regression, SVC), and achieved 0.80 F1-score through hyperparameter optimization of Logistic Regression.",
       link: "https://github.com/luandcy/m1-nlp-sentiment-analysis",
       skills: ["Python", "NLP", "SpaCy", "Machine Learning", "Text Classification"],
+      image: "/mlportfolio/projects/project1.jpg"
     },
     {
       name: "Signature Transform for Time-Series Classification",
