@@ -20,6 +20,7 @@ export const siteConfig = {
         "Research internship project analyzing single-cell RNA sequencing data from skin cancer patients. Leveraged variational autoencoders (scVI) to handle high-dimensional, sparse biological data. Explored multiple visualization methods (t-SNE, UMAP, PCA, Spectral Embedding) to reveal meaningful clustering patterns and biological structure across patient samples.",
       link: "https://github.com/luandcy/m1-stage-scanalysis",
       skills: ["Python", "scVI", "t-SNE", "UMAP", "Bioinformatics"],
+      image: "/mlportfolio/projects/project2.png"
     },
     {
       name: "French Twitter Sentiment Analysis",
@@ -35,6 +36,7 @@ export const siteConfig = {
         "Implemented signature and log-signature transforms from rough path theory for medical time-series analysis. Conducted systematic hyperparameter optimization to evaluate signature depth, regularization, and dimensionality trade-offs. Demonstrated log-signatures' superior stability in high-dimensional feature spaces.",
       link: "https://github.com/luandcy/m2-log-signature",
       skills: ["Python", "Time-Series Analysis", "Signature transform", "Tensor manipulation"],
+      image: "/mlportfolio/projects/project3.png"
     },
   ],
 
