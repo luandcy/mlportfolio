@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/luandcy",
   },
   aboutMe:
-    "Currently in my final year of a Master's degree in MIASHS, specializing in machine learning algorithms with a strong statistical foundation. I'm passionate about leveraging new technologies and methods to explore data in insightful and transformative ways. My goal is to deepen my expertise in data analysis and inference to build powerful predictive models. My interests span transportation, environmental and health data, NLP, and social sciences—though I'm open to exploring other domains. I'm driven to solve real-world problems through data and contribute to meaningful projects that align with my values.",
+    "Data Scientist with a dual background in Mathematics and Social Sciences, I combine rigorous statistical analysis with modern Deep Learning techniques to solve complex problems. Currently completing my Master's degree, I focus on building powerful predictive models—from Time Series forecasting to NLP. I am particularly drawn to projects in the Environmental, Transportation, and Retail sectors, where data can directly optimize processes and drive meaningful change.",
   skills: ["Python", "R", "Pandas", "Scikit-learn", "SQL", "Power BI"],
   
   projects: [
