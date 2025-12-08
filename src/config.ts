@@ -15,7 +15,7 @@ export const siteConfig = {
   
   projects: [
     {
-      name: "Single Cell RNA-seq Analysksdhkfshdkshdfsis for Cancer Research",
+      name: "Single Cell RNA-seq Analysis for Cancer Research",
       description:
         "Research internship project analyzing single-cell RNA sequencing data from skin cancer patients. Leveraged variational autoencoders (scVI) to handle high-dimensional, sparse biological data. Explored multiple visualization methods (t-SNE, UMAP, PCA, Spectral Embedding) to reveal meaningful clustering patterns and biological structure across patient samples.",
       link: "https://github.com/luandcy/m1-stage-scanalysis",
