@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/luandcy",
   },
   aboutMe:
-    "Data Scientist with a dual background in Mathematics and Social Sciences, I combine rigorous statistical analysis with modern Deep Learning techniques to solve complex problems. Currently completing my Master's degree, I focus on building powerful predictive models—from Time Series forecasting to NLP. I am particularly drawn to projects in the Environmental, Transportation, and Retail sectors, where data can directly optimize processes and drive meaningful change.",
+    "Data Scientist with a dual background in Mathematics and Social Sciences, I combine rigorous statistical analysis with modern Deep Learning techniques to solve complex problems. Currently completing my Master's degree, I focus on building powerful predictive models—from Time Series forecasting to NLP. I am particularly drawn to projects in the Environmental, Transportation, Retail and Health sectors, where data can directly optimize processes and drive meaningful change.",
   skills: ["Python", "R", "Pandas", "Scikit-learn", "SQL", "Power BI"],
   
   projects: [
