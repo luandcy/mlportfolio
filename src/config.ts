@@ -42,7 +42,7 @@ export const siteConfig = {
       name: "French Natural Language Inference: Multi-Model Comparison",
       description:
         "Comparative study of three NLI approaches for French sentence-pair classification (entailment, contradiction, neutral). Fine-tuned CamemBERT and CamemBERTa encoders with LoRA for efficient adaptation, implemented decoder-based classification with Llama 3 (1B/3B), and explored in-context learning strategies including zero-shot, few-shot, and Chain-of-Thought prompting with Llama 3 (3B/8B).",
-      link: "https://github.com/luandcy/m2-representation-learning",
+      link: "https://mathisdrn.github.io/nlp-representation-learning/",
       skills: ["Python", "NLP", "LoRA", "Transformers", "Prompt Engineering"],
       image: "/mlportfolio/projects/projet4.png"
     },
